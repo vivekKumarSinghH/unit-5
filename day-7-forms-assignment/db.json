@@ -1,0 +1,31 @@
+{
+  "Employee": [
+    {
+      "name": "vivek kumar",
+      "age": "13",
+      "address": "bilari",
+      "department": "Designer",
+      "married": true,
+      "salary": "120000",
+      "id": 1
+    },
+    {
+      "name": "vivek kumar",
+      "age": "5263",
+      "address": "erssassss",
+      "department": "Designer",
+      "married": true,
+      "salary": "190000",
+      "id": 2
+    },
+    {
+      "name": "vivek kumar",
+      "age": "145",
+      "address": "sdff",
+      "department": "Marketing",
+      "married": false,
+      "salary": "1000",
+      "id": 3
+    }
+  ]
+}
