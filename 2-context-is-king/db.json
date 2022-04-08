@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "vivek",
+      "age": "12",
+      "dateOfBirth": "2999-02-22",
+      "stateOfResidence": "Uttar Pradesh",
+      "address": "MAHIPAL SINGH VILL- GANGAPUR",
+      "pincode": "202393",
+      "id": 1
+    },
+    {
+      "name": "vb",
+      "age": "13",
+      "dateOfBirth": "3444-04-23",
+      "stateOfResidence": "UTTAR PRADESH",
+      "address": "dr.hamveer singh house no.3",
+      "pincode": "244411",
+      "id": 2
+    },
+    {
+      "name": "vivek",
+      "age": "12",
+      "dateOfBirth": "2999-02-22",
+      "stateOfResidence": "Uttar Pradesh",
+      "address": "MAHIPAL SINGH VILL- GANGAPUR",
+      "pincode": "202393",
+      "id": 3
+    },
+    {
+      "name": "vb",
+      "age": "13",
+      "dateOfBirth": "3444-04-23",
+      "stateOfResidence": "UTTAR PRADESH",
+      "address": "dr.hamveer singh house no.3",
+      "pincode": "244411",
+      "id": 4
+    },
+    {
+      "name": "vivek",
+      "age": "12",
+      "dateOfBirth": "2999-02-22",
+      "stateOfResidence": "Uttar Pradesh",
+      "address": "MAHIPAL SINGH VILL- GANGAPUR",
+      "pincode": "202393",
+      "id": 5
+    },
+    {
+      "name": "vb",
+      "age": "13",
+      "dateOfBirth": "3444-04-23",
+      "stateOfResidence": "UTTAR PRADESH",
+      "address": "dr.hamveer singh house no.3",
+      "pincode": "244411",
+      "id": 6
+    },
+    {
+      "name": "hhwjs",
+      "age": "332",
+      "dateOfBirth": "0533-07-08",
+      "stateOfResidence": "Delhi",
+      "address": "Flat no.- 554 3rd floor",
+      "pincode": "110009",
+      "id": 7
+    },
+    {
+      "name": "jhvw",
+      "age": "1",
+      "dateOfBirth": "0002-02-01",
+      "stateOfResidence": "Select an option",
+      "address": "Mahipal singh vill- gangapur",
+      "pincode": "202393",
+      "id": 8
+    }
+  ]
+}
