@@ -1,0 +1,54 @@
+{
+  "countries": [
+    {
+      "name": "india",
+      "id": 1
+    },
+    {
+      "name": "china",
+      "id": 2
+    },
+    {
+      "name": "pakistan",
+      "id": 3
+    },
+    {
+      "name": "nepal",
+      "id": 4
+    },
+    {
+      "name": "India",
+      "id": 5
+    },
+    {
+      "name": "USA",
+      "id": 6
+    }
+  ],
+  "cities": [
+    {
+      "name": "rampur",
+      "population": "10000",
+      "country": "India",
+      "id": 1
+    },
+    {
+      "name": "lahore",
+      "population": "123343766732",
+      "country": "pakistan",
+      "id": 2
+    },
+    {
+      "name": "Pune",
+      "population": "65737294",
+      "country": "India",
+      "id": 3
+    },
+    {
+      "name": "New york",
+      "population": "1232244",
+      "country": "USA",
+      "id": 5
+    }
+  ]
+}
